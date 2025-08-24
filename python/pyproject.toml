@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "prompt-roulette"
-version = "1.0.0"
+version = "1.0.1"
 description = "A chaotic prompt injection tool that occasionally returns brand-damaging statements"
 readme = "README.md"
 authors = [{name = "Dan Gurney"}]
