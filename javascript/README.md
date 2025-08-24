@@ -24,7 +24,7 @@ yarn add @dgurns/prompt-roulette
 ## Usage 
 
 ```js
-import promptRoulette from 'prompt-roulette';
+import promptRoulette from '@dgurns/prompt-roulette';
 
 PROMPT = `
     You are the world's expert in tax optimization strategies.

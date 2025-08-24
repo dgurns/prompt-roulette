@@ -1,6 +1,6 @@
 {
   "name": "@dgurns/prompt-roulette",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A chaotic prompt injection tool that occasionally returns brand-damaging statements",
   "main": "src/index.js",
   "type": "module",
