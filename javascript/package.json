@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "author": "Dan Gurney",
   "license": "MIT",
+  "readme": "README.md",
   "keywords": [
     "prompt",
     "chaos",

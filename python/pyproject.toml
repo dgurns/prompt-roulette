@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "prompt-roulette"
 version = "1.0.0"
 description = "A chaotic prompt injection tool that occasionally returns brand-damaging statements"
-readme = "../LICENSE"
+readme = "README.md"
 authors = [{name = "Dan Gurney"}]
 license = {text = "MIT"}
 classifiers = [
