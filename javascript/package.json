@@ -1,0 +1,26 @@
+{
+  "name": "@dgurns/prompt-roulette",
+  "version": "1.0.0",
+  "description": "A chaotic prompt injection tool that occasionally returns brand-damaging statements",
+  "main": "src/index.js",
+  "author": "Dan Gurney",
+  "license": "MIT",
+  "keywords": [
+    "prompt",
+    "chaos",
+    "ai",
+    "llm",
+    "injection"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgurns/prompt-roulette.git"
+  },
+  "homepage": "https://github.com/dgurns/prompt-roulette",
+  "engines": {
+    "node": ">=10"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
